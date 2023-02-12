@@ -1,5 +1,5 @@
 # Fibonacci Branching Pattern
 
-[](media/fibonacci-branching-pattern.png)
+[asf](./media/fibonacci-branching-pattern.png)
 
 [Interactive version](https://jfinmaniv.shinyapps.io/ninninin/)
