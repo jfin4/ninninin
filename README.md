@@ -1,4 +1,4 @@
-# Fibonacci Branching Pattern
+# Welcome to Ninninin!
 
 <img src="media/fibonacci-branching-pattern.png" width = "200px">
 
