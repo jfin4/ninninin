@@ -1,5 +1,5 @@
 # Fibonacci Branching Pattern
 
-![](media/fibonacci-branching-pattern.png){width = 300px}
+<img src="media/fibonacci-branching-pattern.png" width = "200px">
 
 [Interactive version](https://jfinmaniv.shinyapps.io/ninninin/)
